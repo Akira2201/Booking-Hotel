@@ -1299,7 +1299,7 @@ h2.title {
 		-webkit-box-orient: vertical;
 		-webkit-line-clamp: 4;
 	}
-	.contact_address li:hover a { //890
+	.contact_address li:hover a {
     color: rgb(230, 227, 227);
 	}
 .carousel_lod--list img{
